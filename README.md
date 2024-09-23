@@ -68,3 +68,5 @@ The LLM provides insights in the following format:
 
 Feel free to adapt the result format as needed! The output can be converted into any file format and schema that suits your project.
 
+### Project Inspiration
+You can find the project repository at [ai-secure-code-review](https://github.com/247arjun/ai-secure-code-review/tree/main). by [@247arjun](https://github.com/247arjun) ♥️
