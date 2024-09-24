@@ -4,10 +4,9 @@ Semgrep-AI is an AI-powered code analysis tool that enhances Semgrep’s static 
 
 ## 🌟 Key Features
 
-- Combines **Semgrep** with AI to provide richer vulnerability analysis 🧠
-- Validates findings with **code context** for more accurate results 📂
+- Validates findings with **code context** (not only just grep and display)for more accurate results 📂
 - Outputs detailed reports with **confidence scores** and **exploitability insights** ✅
-- Supports custom formatting for results in **CSV** or other file formats 📝
+- Supports custom formatting for results in **CSV** or other file formats 📝 (To-Do)
 
 ## ⚙️ Installation & Setup
 
