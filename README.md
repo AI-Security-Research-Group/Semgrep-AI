@@ -1,4 +1,4 @@
-# ⚡️ Semgrep-AI 🚀
+# ⚡️ Semgrep-AI - Using Local LLM 🚀
 
 Semgrep-AI is an AI-powered code analysis tool that enhances Semgrep’s static analysis by providing contextual validation of findings using a **local LLM (Large Language Model)**. It helps you gain deeper insights into vulnerabilities, offering explanations, exploitability assessments, confidence ratings, and mitigation tips. 📊🛡️
 
